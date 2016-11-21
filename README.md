@@ -1,0 +1,2 @@
+# scalaAndJavaExes
+exercises for practice
